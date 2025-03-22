@@ -1,0 +1,21 @@
+StaffID,FirstName,LastName,Role,Department,Specialization,PhoneNumber,Email,Address,EmploymentDate,Salary,Shift,SupervisorID,Status,LastUpdated
+1,John,Doe,Doctor,Cardiology,Cardiologist,+97412345678,john.doe@hospital.com,"123 Palm St, Doha",2020-01-15,15000.00,Morning,,Active,2024-12-30
+2,Jane,Smith,Nurse,General Medicine,,+97423456789,jane.smith@hospital.com,"456 Oak St, Doha",2019-11-20,6000.00,Night,1,Active,2024-12-30
+3,Michael,Brown,Surgeon,Surgery,Orthopedic Surgeon,+97434567890,michael.brown@hospital.com,"789 Pine St, Doha",2018-06-10,20000.00,Evening,,Active,2024-12-30
+4,Emily,Davis,Receptionist,Administration,,+97445678901,emily.davis@hospital.com,"101 Maple St, Doha",2021-02-01,4000.00,Morning,,Active,2024-12-30
+5,James,Wilson,Doctor,General Medicine,General Practitioner,+97456789012,james.wilson@hospital.com,"202 Cedar St, Doha",2017-09-15,14000.00,Morning,1,Active,2024-12-30
+6,Sarah,Johnson,Nurse,Pediatrics,,+97467890123,sarah.johnson@hospital.com,"303 Birch St, Doha",2022-03-10,5800.00,Night,5,Active,2024-12-30
+7,Robert,Lee,Technician,Radiology,X-ray Technician,+97478901234,robert.lee@hospital.com,"404 Elm St, Doha",2019-05-25,7500.00,Evening,,Active,2024-12-30
+8,Olivia,Martin,Doctor,Pediatrics,Pediatrician,+97489012345,olivia.martin@hospital.com,"505 Spruce St, Doha",2020-07-18,16000.00,Morning,5,Active,2024-12-30
+9,Linda,Garcia,Doctor,Oncology,Oncologist,+97490123456,linda.garcia@hospital.com,"606 Ash St, Doha",2016-11-30,18000.00,Morning,,Active,2024-12-30
+10,David,Clark,Nurse,Surgery,,+97401234567,david.clark@hospital.com,"707 Fir St, Doha",2021-08-05,6000.00,Night,3,Active,2024-12-30
+11,Barbara,Hernandez,Doctor,Neurology,Neurologist,+97412345679,barbara.hernandez@hospital.com,"808 Poplar St, Doha",2018-01-20,17000.00,Evening,,Active,2024-12-30
+12,Daniel,Hall,Administrator,Administration,,+97423456780,daniel.hall@hospital.com,"909 Cherry St, Doha",2019-10-15,9000.00,Morning,,Active,2024-12-30
+13,Nancy,Young,Nurse,Cardiology,,+97434567891,nancy.young@hospital.com,"1010 Walnut St, Doha",2020-05-10,5900.00,Night,1,Active,2024-12-30
+14,Anthony,King,Doctor,Orthopedics,Orthopedic Surgeon,+97445678902,anthony.king@hospital.com,"1111 Magnolia St, Doha",2017-12-01,18500.00,Evening,3,Active,2024-12-30
+15,Susan,Wright,Technician,Laboratory,Laboratory Technician,+97456789013,susan.wright@hospital.com,"1212 Willow St, Doha",2021-06-12,7000.00,Morning,,Active,2024-12-30
+16,Paul,Walker,Doctor,General Medicine,General Practitioner,+97467890124,paul.walker@hospital.com,"1313 Chestnut St, Doha",2019-04-08,14000.00,Morning,5,Active,2024-12-30
+17,Angela,Lopez,Nurse,Oncology,,+97478901235,angela.lopez@hospital.com,"1414 Cypress St, Doha",2022-07-20,6200.00,Night,9,Active,2024-12-30
+18,Mark,Harris,Doctor,Radiology,Radiologist,+97489012346,mark.harris@hospital.com,"1515 Hickory St, Doha",2016-09-25,16500.00,Morning,,Active,2024-12-30
+19,Mary,Lewis,Nurse,Neurology,,+97490123457,mary.lewis@hospital.com,"1616 Aspen St, Doha",2020-02-14,5900.00,Night,11,Active,2024-12-30
+20,Carlos,Arro,Doctor,Cardiology,Cardiologist,+97401234568,steven.robinson@hospital.com,"1717 Maple St, Doha",2015-11-10,15000.00,Morning,1,Active,2024-12-30

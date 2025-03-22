@@ -1,0 +1,19 @@
+DrugID,DrugName,GenericName,Form,Strength,Route,Dosage,Stock,LastUpdated
+2,urine,piss,Capsule,250mg,Oral,3 capsules daily for 7 days,80,11/25/2024
+3,Ibuprofen,Ibuprofen,Tablet,200mg,Oral, stomach upset,1.2,12/10/2024
+4,Loratadine,Loratadine,Tablet,10mg,Oral,1 tablet daily,200,11/20/2024
+5,Metformin,Metformin Hydrochloride,Tablet,500mg,Oral,1 tablet twice daily,60,12/5/2024
+6,Salbutamol,Salbutamol,Inhaler,100mcg,Inhalation,2 puffs as needed,40,11/15/2024
+7,Atorvastatin,Atorvastatin,Tablet,20mg,Oral,1 tablet daily at night,100,12/18/2024
+8,Omeprazole,Omeprazole,Tablet,20mg,Oral,1 tablet daily before meals,75,12/1/2024
+9,Cetirizine,Cetirizine,Tablet,10mg,Oral,1 tablet daily,180,12/22/2024
+10,Insulin Glargine,Insulin Glargine,Injection,100units/ml,Subcutaneous,As per physician's prescription,30,11/30/2024
+11,Levothyroxine,Levothyroxine,Tablet,50mcg,Oral,1 tablet daily before breakfast,90,12/16/2024
+12,Aspirin,Acetylsalicylic Acid,Tablet,75mg,Oral,1 tablet daily,130,11/12/2024
+13,Ranitidine,Ranitidine,Tablet,150mg,Oral,1 tablet twice daily,60,12/24/2024
+14,Prednisolone,Prednisolone,Tablet,10mg,Oral,As prescribed by physician,50,11/18/2024
+15,Morphine,Morphine Hydrochloride,Injection,10mg/ml,Intravenous,As prescribed by physician,20,12/20/2024
+16,Warfarin,Warfarin,Tablet,5mg,Oral,1 tablet daily,40,11/5/2024
+17,Furosemide,Furosemide,Tablet,40mg,Oral,1 tablet daily,70,12/2/2024
+18,Doxycycline,Doxycycline,Capsule,100mg,Oral,1 capsule daily for 7 days,45,12/12/2024
+19,Clopidogrel,Clopidogrel,Tablet,75mg,Oral,1 tablet daily,60,12/11/2024

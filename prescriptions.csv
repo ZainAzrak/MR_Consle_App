@@ -1,0 +1,8 @@
+PrescriptionID,PatientID,DoctorAssigned,DrugName,Dosage,Instructions,LastUpdated
+001,001,Dr. Smith,Ibuprofen,200mg,Take 1 tablet every 6 hours,2025-03-08
+002,003,Dr. Lee,Loratadine,10mg,1 tablet daily,2025-03-08
+003,004,Dr. Williams,Metformin,500mg,1 tablet twice daily,2025-03-07
+004,005,Dr. Martinez,Atorvastatin,20mg,1 tablet daily at night,2025-03-06
+005,006,Dr. Zain,Salbutamol,100mcg,2 puffs as needed,2025-03-05
+006,002,Dr. Johnson,Aspirin,75mg,1 tablet daily,2025-03-08
+007,020,Dr. Yipee,Stupidity,7 Kilograms,every 2 seconds,2025-03-15
